@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e7462dcf8446214e999d8b712bf8bb5, type: 3}
+  m_Name: Warrior
+  m_EditorClassIdentifier: 
+  m_AssetPaths:
+    keys: []
+    values: []
+  m_OverrideParent:
+    keys: []
+    values: 
+  m_Parent: {fileID: 0}
+  m_ItemName: 
+  m_Guid: e030b790-5b17-41b2-a65f-fbcf03c2b9e3
+  internalName: 
+  description: 
+  icon: {fileID: 0}
+  attributes: []
+  customValues:
+  - m_ItemName: values
+    m_Guid: 028addea-1685-4e17-8902-d18b014568f3
+    type: 0
+    customValueInteger:
+      m_DataContent: 42
+    customValueFloat:
+      m_DataContent: 0
+    customValueBoolean:
+      m_DataContent: 0
+    customValueString:
+      m_DataContent: 
+    customValueVector2:
+      m_DataContent: {x: 0, y: 0}
+    customValueVector3:
+      m_DataContent: {x: 0, y: 0, z: 0}
+    customValueColor:
+      m_DataContent: {r: 0, g: 0, b: 0, a: 0}
+    customValueSprite:
+      m_DataContent: {fileID: 0}
+  - m_ItemName: values
+    m_Guid: 01384321-be50-4626-bb14-6142c66c566a
+    type: 1
+    customValueInteger:
+      m_DataContent: 0
+    customValueFloat:
+      m_DataContent: 0.4
+    customValueBoolean:
+      m_DataContent: 0
+    customValueString:
+      m_DataContent: 
+    customValueVector2:
+      m_DataContent: {x: 0, y: 0}
+    customValueVector3:
+      m_DataContent: {x: 0, y: 0, z: 0}
+    customValueColor:
+      m_DataContent: {r: 0, g: 0, b: 0, a: 0}
+    customValueSprite:
+      m_DataContent: {fileID: 0}
+  - m_ItemName: name
+    m_Guid: 8da5a71d-3376-4a6f-ba76-5b8804b5ac1f
+    type: 3
+    customValueInteger:
+      m_DataContent: 0
+    customValueFloat:
+      m_DataContent: 0
+    customValueBoolean:
+      m_DataContent: 0
+    customValueString:
+      m_DataContent: prova
+    customValueVector2:
+      m_DataContent: {x: 0, y: 0}
+    customValueVector3:
+      m_DataContent: {x: 0, y: 0, z: 0}
+    customValueColor:
+      m_DataContent: {r: 0, g: 0, b: 0, a: 0}
+    customValueSprite:
+      m_DataContent: {fileID: 0}
+  - m_ItemName: coord
+    m_Guid: 49da8abf-bc80-4396-9d38-b6f0ef2d3c1a
+    type: 5
+    customValueInteger:
+      m_DataContent: 0
+    customValueFloat:
+      m_DataContent: 0
+    customValueBoolean:
+      m_DataContent: 0
+    customValueString:
+      m_DataContent: 
+    customValueVector2:
+      m_DataContent: {x: 0, y: 0}
+    customValueVector3:
+      m_DataContent: {x: 1, y: 2, z: 3}
+    customValueColor:
+      m_DataContent: {r: 0, g: 0, b: 0, a: 0}
+    customValueSprite:
+      m_DataContent: {fileID: 0}
+  - m_ItemName: isSkin
+    m_Guid: 6860af10-6415-4c81-98d9-4965b02c74fc
+    type: 2
+    customValueInteger:
+      m_DataContent: 0
+    customValueFloat:
+      m_DataContent: 0
+    customValueBoolean:
+      m_DataContent: 0
+    customValueString:
+      m_DataContent: 
+    customValueVector2:
+      m_DataContent: {x: 0, y: 0}
+    customValueVector3:
+      m_DataContent: {x: 0, y: 0, z: 0}
+    customValueColor:
+      m_DataContent: {r: 0, g: 0, b: 0, a: 0}
+    customValueSprite:
+      m_DataContent: {fileID: 0}
+  - m_ItemName: icons
+    m_Guid: 2ebe1950-0a1d-4264-94cc-2cea7f06e2eb
+    type: 7
+    customValueInteger:
+      m_DataContent: 0
+    customValueFloat:
+      m_DataContent: 0
+    customValueBoolean:
+      m_DataContent: 0
+    customValueString:
+      m_DataContent: 
+    customValueVector2:
+      m_DataContent: {x: 0, y: 0}
+    customValueVector3:
+      m_DataContent: {x: 0, y: 0, z: 0}
+    customValueColor:
+      m_DataContent: {r: 0, g: 0, b: 0, a: 0}
+    customValueSprite:
+      m_DataContent: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  - m_ItemName: rarity
+    m_Guid: 49da8abf-bc80-4396-9d38-b6f0ef2d3c1a
+    type: 6
+    customValueInteger:
+      m_DataContent: 0
+    customValueFloat:
+      m_DataContent: 0
+    customValueBoolean:
+      m_DataContent: 0
+    customValueString:
+      m_DataContent: 
+    customValueVector2:
+      m_DataContent: {x: 0, y: 0}
+    customValueVector3:
+      m_DataContent: {x: 0, y: 0, z: 0}
+    customValueColor:
+      m_DataContent: {r: 0.8962264, g: 0.4185208, b: 0.4185208, a: 0}
+    customValueSprite:
+      m_DataContent: {fileID: 0}
+  - m_ItemName: coord2
+    m_Guid: 49da8abf-bc80-4396-9d38-b6f0ef2d3c1a
+    type: 4
+    customValueInteger:
+      m_DataContent: 0
+    customValueFloat:
+      m_DataContent: 0
+    customValueBoolean:
+      m_DataContent: 0
+    customValueString:
+      m_DataContent: 
+    customValueVector2:
+      m_DataContent: {x: 1, y: 2}
+    customValueVector3:
+      m_DataContent: {x: 0, y: 0, z: 0}
+    customValueColor:
+      m_DataContent: {r: 0, g: 0, b: 0, a: 0}
+    customValueSprite:
+      m_DataContent: {fileID: 0}
